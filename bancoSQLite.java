@@ -34,6 +34,5 @@ public class bancoSQLite {
         
         createNewDatabase("_database.db");
         User user = new User("_database.db");
-        user.insert("Wes", "1234", "Wesley", "wesley@gmail.com");
     }
 }
