@@ -36,3 +36,6 @@ public class bancoSQLite {
         User user = new User("_database.db");
     }
 }
+
+
+//CRUD Criação Leitura Update e Delete.
